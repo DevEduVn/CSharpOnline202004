@@ -35,9 +35,26 @@ ___
 - OOP
 - Xây dựng các lớp và các thành phần của lớp
 ### Lesion05: Xây dựng lớp kế thừa và đa hình
+- Inheristance
+- Polymorphism
 ### Lesion06: Xây dựng lớp trừu tượng và lớp giao diện
+- Abstraction
+- Interface
 ### Lesion07: Mảng và chỉ mục
+- Array
+- Indexer
 ### Lesion08: Generic và Collection
+- Generic
+- Collection (ArrayList; Hashtable; SortedList; Dictionary)
 ### Lesion09: Khái niệm về namespace
+- Namespace
+- Using Namespace
+- Alias Namespace
 ### Lesion10: Khái niệm về Exception
+- Khái niệm
+- Sử dụng (try...catch; try...catch...finaly)
 ### Lesion11: LINQ, EntityFrameWork, Lambda expression, query expression
+- Linq
+- Entity framework
+- Lambda Expression
+- query Expression
