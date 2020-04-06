@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson01", "Lesson01\Lesson01.csproj", "{480E2BEF-1C01-4A26-A803-C90BF9B081EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson0101", "Lesson0101\Lesson0101.csproj", "{D080CB8C-EBA3-4957-B330-BEC89C893828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson0102", "Lesson0102\Lesson0102.csproj", "{76BE9BE2-CEA9-4954-9CD8-B2E3581071B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480E2BEF-1C01-4A26-A803-C90BF9B081EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480E2BEF-1C01-4A26-A803-C90BF9B081EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480E2BEF-1C01-4A26-A803-C90BF9B081EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480E2BEF-1C01-4A26-A803-C90BF9B081EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D080CB8C-EBA3-4957-B330-BEC89C893828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D080CB8C-EBA3-4957-B330-BEC89C893828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D080CB8C-EBA3-4957-B330-BEC89C893828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D080CB8C-EBA3-4957-B330-BEC89C893828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BE9BE2-CEA9-4954-9CD8-B2E3581071B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BE9BE2-CEA9-4954-9CD8-B2E3581071B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BE9BE2-CEA9-4954-9CD8-B2E3581071B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BE9BE2-CEA9-4954-9CD8-B2E3581071B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81134D28-B2F1-4A71-A4A9-09DF32881278}
+	EndGlobalSection
+EndGlobal
