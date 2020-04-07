@@ -1,0 +1,5 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lession02.Lab01BT2\bin\Debug\Lession02.Lab01BT2.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lession02.Lab01BT2\bin\Debug\Lession02.Lab01BT2.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lession02.Lab01BT2\bin\Debug\Lession02.Lab01BT2.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lession02.Lab01BT2\obj\Debug\Lession02.Lab01BT2.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lession02.Lab01BT2\obj\Debug\Lession02.Lab01BT2.pdb

@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Lesson0101
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             // Biến, kiểu dữ liệu, khai báo...

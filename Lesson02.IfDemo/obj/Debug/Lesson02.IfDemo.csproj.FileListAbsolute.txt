@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\bin\Debug\Lesson02.IfDemo.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\bin\Debug\Lesson02.IfDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\bin\Debug\Lesson02.IfDemo.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.pdb
