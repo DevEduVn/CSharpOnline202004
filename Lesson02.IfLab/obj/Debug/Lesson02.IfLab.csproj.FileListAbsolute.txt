@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\bin\Debug\Lesson02.IfLab.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\bin\Debug\Lesson02.IfLab.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\bin\Debug\Lesson02.IfLab.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\obj\Debug\Lesson02.IfLab.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\obj\Debug\Lesson02.IfLab.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfLab\obj\Debug\Lesson02.IfLab.csprojAssemblyReference.cache

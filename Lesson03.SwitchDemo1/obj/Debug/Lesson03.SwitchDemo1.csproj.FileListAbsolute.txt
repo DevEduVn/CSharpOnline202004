@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\bin\Debug\Lesson03.SwitchDemo1.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\bin\Debug\Lesson03.SwitchDemo1.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\bin\Debug\Lesson03.SwitchDemo1.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\obj\Debug\Lesson03.SwitchDemo1.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\obj\Debug\Lesson03.SwitchDemo1.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo1\obj\Debug\Lesson03.SwitchDemo1.csprojAssemblyReference.cache

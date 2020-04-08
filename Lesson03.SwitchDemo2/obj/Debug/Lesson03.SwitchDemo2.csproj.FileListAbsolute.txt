@@ -1,0 +1,5 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo2\bin\Debug\Lesson03.SwitchDemo2.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo2\bin\Debug\Lesson03.SwitchDemo2.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo2\bin\Debug\Lesson03.SwitchDemo2.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo2\obj\Debug\Lesson03.SwitchDemo2.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson03.SwitchDemo2\obj\Debug\Lesson03.SwitchDemo2.pdb
