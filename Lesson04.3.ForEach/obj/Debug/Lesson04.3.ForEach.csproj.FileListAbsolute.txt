@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\bin\Debug\Lesson04.3.ForEach.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\bin\Debug\Lesson04.3.ForEach.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\bin\Debug\Lesson04.3.ForEach.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\obj\Debug\Lesson04.3.ForEach.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\obj\Debug\Lesson04.3.ForEach.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\obj\Debug\Lesson04.3.ForEach.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.3.ForEach\obj\Debug\Lesson04.3.ForEach.csprojAssemblyReference.cache

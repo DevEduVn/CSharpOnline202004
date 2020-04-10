@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\bin\Debug\Lesson04.2.While.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\bin\Debug\Lesson04.2.While.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\bin\Debug\Lesson04.2.While.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\obj\Debug\Lesson04.2.While.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\obj\Debug\Lesson04.2.While.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.2.While\obj\Debug\Lesson04.2.While.pdb
