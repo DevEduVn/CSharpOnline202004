@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\bin\Debug\Lesson06.4.PropertiesDemo.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\bin\Debug\Lesson06.4.PropertiesDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\bin\Debug\Lesson06.4.PropertiesDemo.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\obj\Debug\Lesson06.4.PropertiesDemo.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\obj\Debug\Lesson06.4.PropertiesDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.4.PropertiesDemo\obj\Debug\Lesson06.4.PropertiesDemo.pdb
