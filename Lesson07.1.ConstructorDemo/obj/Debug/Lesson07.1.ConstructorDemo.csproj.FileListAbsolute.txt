@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\bin\Debug\Lesson07.1.ConstructorDemo.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\bin\Debug\Lesson07.1.ConstructorDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\bin\Debug\Lesson07.1.ConstructorDemo.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\obj\Debug\Lesson07.1.ConstructorDemo.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\obj\Debug\Lesson07.1.ConstructorDemo.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\obj\Debug\Lesson07.1.ConstructorDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson07.1.ConstructorDemo\obj\Debug\Lesson07.1.ConstructorDemo.pdb
