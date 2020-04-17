@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\bin\Debug\Lesson08.2.Inheristance.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\bin\Debug\Lesson08.2.Inheristance.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\bin\Debug\Lesson08.2.Inheristance.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\obj\Debug\Lesson08.2.Inheristance.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\obj\Debug\Lesson08.2.Inheristance.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\obj\Debug\Lesson08.2.Inheristance.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.2.Inheristance\obj\Debug\Lesson08.2.Inheristance.csprojAssemblyReference.cache
