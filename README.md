@@ -15,7 +15,9 @@ ___
 ## Quản lý mã nguồn 
 - **[https://github.com](https://github.com)** 
 ___
-
+## Video Demo 
+- **[Video Youtube](https://www.youtube.com/playlist?list=PLeELIT2ws1eODyfW1_14bH-WQbjVy-ufS)** 
+___
 # Content
 ### Lesson 01: Tổng quan về .NET Framework 
 - Tổng quan về ngôn ngữ lập trình C#
