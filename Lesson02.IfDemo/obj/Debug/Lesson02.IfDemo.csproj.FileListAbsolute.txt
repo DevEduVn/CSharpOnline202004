@@ -3,3 +3,4 @@ D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\bin\Debug\Le
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\bin\Debug\Lesson02.IfDemo.pdb
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.IfDemo\obj\Debug\Lesson02.IfDemo.csproj.CoreCompileInputs.cache

@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\bin\Debug\Lesson06.3.ClassAndObject.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\bin\Debug\Lesson06.3.ClassAndObject.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\bin\Debug\Lesson06.3.ClassAndObject.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\obj\Debug\Lesson06.3.ClassAndObject.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\obj\Debug\Lesson06.3.ClassAndObject.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\obj\Debug\Lesson06.3.ClassAndObject.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.3.ClassAndObject\obj\Debug\Lesson06.3.ClassAndObject.pdb

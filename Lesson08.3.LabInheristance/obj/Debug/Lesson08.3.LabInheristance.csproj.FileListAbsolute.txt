@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\bin\Debug\Lesson08.3.LabInheristance.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\bin\Debug\Lesson08.3.LabInheristance.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\bin\Debug\Lesson08.3.LabInheristance.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\obj\Debug\Lesson08.3.LabInheristance.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\obj\Debug\Lesson08.3.LabInheristance.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\obj\Debug\Lesson08.3.LabInheristance.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.3.LabInheristance\obj\Debug\Lesson08.3.LabInheristance.pdb

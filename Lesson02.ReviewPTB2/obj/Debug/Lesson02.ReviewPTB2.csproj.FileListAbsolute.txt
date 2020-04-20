@@ -3,3 +3,4 @@ D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.ReviewPTB2\bin\Debu
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.ReviewPTB2\bin\Debug\Lesson02.ReviewPTB2.pdb
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.ReviewPTB2\obj\Debug\Lesson02.ReviewPTB2.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.ReviewPTB2\obj\Debug\Lesson02.ReviewPTB2.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.ReviewPTB2\obj\Debug\Lesson02.ReviewPTB2.csproj.CoreCompileInputs.cache

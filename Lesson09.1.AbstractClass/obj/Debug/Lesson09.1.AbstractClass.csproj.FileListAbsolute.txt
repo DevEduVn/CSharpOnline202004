@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\bin\Debug\Lesson09.1.AbstractClass.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\bin\Debug\Lesson09.1.AbstractClass.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\bin\Debug\Lesson09.1.AbstractClass.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\obj\Debug\Lesson09.1.AbstractClass.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\obj\Debug\Lesson09.1.AbstractClass.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson09.1.AbstractClass\obj\Debug\Lesson09.1.AbstractClass.pdb

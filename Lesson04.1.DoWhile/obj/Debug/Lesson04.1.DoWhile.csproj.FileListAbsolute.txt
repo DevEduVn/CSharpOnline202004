@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\bin\Debug\Lesson04.1.DoWhile.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\bin\Debug\Lesson04.1.DoWhile.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\bin\Debug\Lesson04.1.DoWhile.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\obj\Debug\Lesson04.1.DoWhile.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\obj\Debug\Lesson04.1.DoWhile.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\obj\Debug\Lesson04.1.DoWhile.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.1.DoWhile\obj\Debug\Lesson04.1.DoWhile.pdb

@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\bin\Debug\Lesson06.5.PropertiesAuto.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\bin\Debug\Lesson06.5.PropertiesAuto.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\bin\Debug\Lesson06.5.PropertiesAuto.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\obj\Debug\Lesson06.5.PropertiesAuto.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\obj\Debug\Lesson06.5.PropertiesAuto.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\obj\Debug\Lesson06.5.PropertiesAuto.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.5.PropertiesAuto\obj\Debug\Lesson06.5.PropertiesAuto.pdb

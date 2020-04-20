@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\bin\Debug\Lesson06.1.Review.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\bin\Debug\Lesson06.1.Review.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\bin\Debug\Lesson06.1.Review.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\obj\Debug\Lesson06.1.Review.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\obj\Debug\Lesson06.1.Review.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\obj\Debug\Lesson06.1.Review.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.1.Review\obj\Debug\Lesson06.1.Review.pdb

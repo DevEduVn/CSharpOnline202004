@@ -4,3 +4,4 @@ D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.Read_ReadLine\bin\D
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.Read_ReadLine\obj\Debug\Lesson02.Read_ReadLine.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.Read_ReadLine\obj\Debug\Lesson02.Read_ReadLine.pdb
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.Read_ReadLine\obj\Debug\Lesson02.Read_ReadLine.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson02.Read_ReadLine\obj\Debug\Lesson02.Read_ReadLine.csproj.CoreCompileInputs.cache

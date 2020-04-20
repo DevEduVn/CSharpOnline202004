@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\bin\Debug\Lesson06.2.OOP.Overview.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\bin\Debug\Lesson06.2.OOP.Overview.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\bin\Debug\Lesson06.2.OOP.Overview.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\obj\Debug\Lesson06.2.OOP.Overview.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\obj\Debug\Lesson06.2.OOP.Overview.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson06.2.OOP.Overview\obj\Debug\Lesson06.2.OOP.Overview.pdb

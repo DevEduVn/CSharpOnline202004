@@ -1,0 +1,6 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\bin\Debug\Lesson05.Array01.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\bin\Debug\Lesson05.Array01.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\bin\Debug\Lesson05.Array01.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\obj\Debug\Lesson05.1.Array01.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\obj\Debug\Lesson05.Array01.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.Array01\obj\Debug\Lesson05.Array01.pdb

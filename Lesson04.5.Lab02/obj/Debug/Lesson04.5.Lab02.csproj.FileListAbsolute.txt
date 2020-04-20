@@ -4,4 +4,3 @@ D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.5.Lab02\bin\Debug\L
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.5.Lab02\obj\Debug\Lesson04.5.Lab02.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.5.Lab02\obj\Debug\Lesson04.5.Lab02.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.5.Lab02\obj\Debug\Lesson04.5.Lab02.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson04.5.Lab02\obj\Debug\Lesson04.5.Lab02.csprojAssemblyReference.cache

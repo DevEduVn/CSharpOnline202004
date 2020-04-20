@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\bin\Debug\Lesson05.4.Array2.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\bin\Debug\Lesson05.4.Array2.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\bin\Debug\Lesson05.4.Array2.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\obj\Debug\Lesson05.4.Array2.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\obj\Debug\Lesson05.4.Array2.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\obj\Debug\Lesson05.4.Array2.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson05.4.Array2\obj\Debug\Lesson05.4.Array2.pdb

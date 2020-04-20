@@ -1,7 +1,6 @@
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\bin\Debug\Lesson08.1.Overloading.exe.config
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\bin\Debug\Lesson08.1.Overloading.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\bin\Debug\Lesson08.1.Overloading.pdb
-D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\obj\Debug\Lesson08.1.Overloading.csprojAssemblyReference.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\obj\Debug\Lesson08.1.Overloading.csproj.CoreCompileInputs.cache
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\obj\Debug\Lesson08.1.Overloading.exe
 D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson08.1.Overloading\obj\Debug\Lesson08.1.Overloading.pdb
