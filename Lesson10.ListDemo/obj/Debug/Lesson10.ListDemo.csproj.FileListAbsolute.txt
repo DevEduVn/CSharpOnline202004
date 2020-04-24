@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\bin\Debug\Lesson10.ListDemo.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\bin\Debug\Lesson10.ListDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\bin\Debug\Lesson10.ListDemo.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\obj\Debug\Lesson10.ListDemo.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\obj\Debug\Lesson10.ListDemo.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\obj\Debug\Lesson10.ListDemo.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListDemo\obj\Debug\Lesson10.ListDemo.pdb
