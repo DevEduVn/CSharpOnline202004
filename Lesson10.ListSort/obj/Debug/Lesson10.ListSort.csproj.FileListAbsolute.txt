@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\bin\Debug\Lesson10.ListSort.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\bin\Debug\Lesson10.ListSort.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\bin\Debug\Lesson10.ListSort.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\obj\Debug\Lesson10.ListSort.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\obj\Debug\Lesson10.ListSort.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\obj\Debug\Lesson10.ListSort.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson10.ListSort\obj\Debug\Lesson10.ListSort.pdb

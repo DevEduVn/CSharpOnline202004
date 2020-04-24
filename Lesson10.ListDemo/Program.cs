@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,7 +18,7 @@ namespace Lesson10.ListDemo
             //lstInt.OrderBy(x=>x.ToString());
             //Show(lstInt);
 
-            IList<NhanVien> lstNhanVien = new List<NhanVien>
+            List<NhanVien> lstNhanVien = new List<NhanVien>
             {
                 new NhanVien(1,"Chung Trinhj",10000),
                 new NhanVien(2, "Huong Le", 20000),
@@ -28,7 +30,7 @@ namespace Lesson10.ListDemo
                 new NhanVien(8,"Phong Nguyen",75000),
                 new NhanVien(9,"Thoi Chan Long",50000)
             };
-
+            
             foreach (var item in lstNhanVien)
             {
                 item.ShowInfo();
@@ -41,6 +43,13 @@ namespace Lesson10.ListDemo
 
             Console.WriteLine("\n Sap theo luong giam dan, neu trung sap theo ten giam dan");
             foreach (var item in lstNhanVien.OrderByDescending(x => x.Salary).ThenByDescending(x=>x.Name))
+            {
+                item.ShowInfo();
+            }
+            Console.ReadLine();
+
+            lstNhanVien.Sort( (NhanVien x, NhanVien y) =>  { return (y.Salary-x.Salary)>0?1:-1; });
+            foreach (var item in lstNhanVien)
             {
                 item.ShowInfo();
             }

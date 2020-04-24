@@ -47,5 +47,10 @@ namespace Lesson10.ListDemo
             return string.Format("{0,-5} {1,-20} {2, 15}",
                 ID, Name, Salary); 
         }
+
+        public static explicit operator NhanVien(double v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
