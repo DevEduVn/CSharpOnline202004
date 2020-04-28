@@ -1,0 +1,14 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\Lesson11.LinqEntityFramework.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\Lesson11.LinqEntityFramework.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\Lesson11.LinqEntityFramework.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\EntityFramework.dll
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\EntityFramework.xml
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.csproj.CopyComplete
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.Form2.resources
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqEntityFramework\obj\Debug\Lesson11.LinqEntityFramework.csproj.GenerateResource.cache

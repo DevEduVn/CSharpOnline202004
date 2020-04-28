@@ -1,0 +1,15 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\Lesson11.WForm.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\Lesson11.WForm.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\Lesson11.WForm.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\EntityFramework.dll
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\EntityFramework.xml
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.Form1.resources
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.Properties.Resources.resources
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.csproj.GenerateResource.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.csproj.CopyComplete
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.WForm\obj\Debug\Lesson11.WForm.pdb

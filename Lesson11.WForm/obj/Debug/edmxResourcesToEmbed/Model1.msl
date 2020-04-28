@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DEVHRMModelStoreContainer" CdmEntityContainer="DEVHRMEntities">
+    <EntitySetMapping Name="DM_TINH_THANH">
+      <EntityTypeMapping TypeName="DEVHRMModel.DM_TINH_THANH">
+        <MappingFragment StoreEntitySet="DM_TINH_THANH">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MO_TA" ColumnName="MO_TA" />
+          <ScalarProperty Name="NGAY_TAO" ColumnName="NGAY_TAO" />
+          <ScalarProperty Name="NGUOI_TAO" ColumnName="NGUOI_TAO" />
+          <ScalarProperty Name="NGAY_CAP_NHAT" ColumnName="NGAY_CAP_NHAT" />
+          <ScalarProperty Name="NGUOI_CAP_NHAT" ColumnName="NGUOI_CAP_NHAT" />
+          <ScalarProperty Name="TRANG_THAI" ColumnName="TRANG_THAI" />
+          <ScalarProperty Name="IS_DELETE" ColumnName="IS_DELETE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

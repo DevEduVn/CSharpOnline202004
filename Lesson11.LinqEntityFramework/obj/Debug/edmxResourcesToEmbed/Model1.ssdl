@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DEVHRMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DM_PHUONG_XA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MA" Type="nvarchar" MaxLength="20" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="200" />
+    <Property Name="MO_TA" Type="nvarchar" MaxLength="500" />
+    <Property Name="ID_QUAN_HUYEN" Type="int" />
+    <Property Name="NGAY_TAO" Type="datetime" />
+    <Property Name="NGUOI_TAO" Type="nvarchar" MaxLength="200" />
+    <Property Name="NGAY_CAP_NHAT" Type="datetime" />
+    <Property Name="NGUOI_CAP_NHAT" Type="nvarchar" MaxLength="200" />
+    <Property Name="TRANG_THAI" Type="int" />
+    <Property Name="IS_DELETE" Type="bit" />
+  </EntityType>
+  <EntityType Name="DM_QUAN_HUYEN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MA" Type="nvarchar" MaxLength="20" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="200" />
+    <Property Name="MO_TA" Type="nvarchar" MaxLength="500" />
+    <Property Name="ID_TINH_THANH" Type="int" />
+    <Property Name="NGAY_TAO" Type="datetime" />
+    <Property Name="NGUOI_TAO" Type="nvarchar" MaxLength="200" />
+    <Property Name="NGAY_CAP_NHAT" Type="datetime" />
+    <Property Name="NGUOI_CAP_NHAT" Type="nvarchar" MaxLength="200" />
+    <Property Name="TRANG_THAI" Type="int" />
+    <Property Name="IS_DELETE" Type="bit" />
+  </EntityType>
+  <EntityType Name="DM_TINH_THANH">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="MA" Type="nvarchar" MaxLength="20" />
+    <Property Name="NAME" Type="nvarchar" MaxLength="200" />
+    <Property Name="MO_TA" Type="nvarchar(max)" />
+    <Property Name="NGAY_TAO" Type="datetime" />
+    <Property Name="NGUOI_TAO" Type="nvarchar" MaxLength="200" />
+    <Property Name="NGAY_CAP_NHAT" Type="datetime" />
+    <Property Name="NGUOI_CAP_NHAT" Type="nvarchar" MaxLength="200" />
+    <Property Name="TRANG_THAI" Type="int" />
+    <Property Name="IS_DELETE" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="DEVHRMModelStoreContainer">
+    <EntitySet Name="DM_PHUONG_XA" EntityType="Self.DM_PHUONG_XA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DM_QUAN_HUYEN" EntityType="Self.DM_QUAN_HUYEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DM_TINH_THANH" EntityType="Self.DM_TINH_THANH" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

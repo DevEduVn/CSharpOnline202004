@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DEVHRMModelStoreContainer" CdmEntityContainer="DEVHRMEntities">
+    <EntitySetMapping Name="DM_PHUONG_XA">
+      <EntityTypeMapping TypeName="DEVHRMModel.DM_PHUONG_XA">
+        <MappingFragment StoreEntitySet="DM_PHUONG_XA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MO_TA" ColumnName="MO_TA" />
+          <ScalarProperty Name="ID_QUAN_HUYEN" ColumnName="ID_QUAN_HUYEN" />
+          <ScalarProperty Name="NGAY_TAO" ColumnName="NGAY_TAO" />
+          <ScalarProperty Name="NGUOI_TAO" ColumnName="NGUOI_TAO" />
+          <ScalarProperty Name="NGAY_CAP_NHAT" ColumnName="NGAY_CAP_NHAT" />
+          <ScalarProperty Name="NGUOI_CAP_NHAT" ColumnName="NGUOI_CAP_NHAT" />
+          <ScalarProperty Name="TRANG_THAI" ColumnName="TRANG_THAI" />
+          <ScalarProperty Name="IS_DELETE" ColumnName="IS_DELETE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DM_QUAN_HUYEN">
+      <EntityTypeMapping TypeName="DEVHRMModel.DM_QUAN_HUYEN">
+        <MappingFragment StoreEntitySet="DM_QUAN_HUYEN">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MO_TA" ColumnName="MO_TA" />
+          <ScalarProperty Name="ID_TINH_THANH" ColumnName="ID_TINH_THANH" />
+          <ScalarProperty Name="NGAY_TAO" ColumnName="NGAY_TAO" />
+          <ScalarProperty Name="NGUOI_TAO" ColumnName="NGUOI_TAO" />
+          <ScalarProperty Name="NGAY_CAP_NHAT" ColumnName="NGAY_CAP_NHAT" />
+          <ScalarProperty Name="NGUOI_CAP_NHAT" ColumnName="NGUOI_CAP_NHAT" />
+          <ScalarProperty Name="TRANG_THAI" ColumnName="TRANG_THAI" />
+          <ScalarProperty Name="IS_DELETE" ColumnName="IS_DELETE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DM_TINH_THANH">
+      <EntityTypeMapping TypeName="DEVHRMModel.DM_TINH_THANH">
+        <MappingFragment StoreEntitySet="DM_TINH_THANH">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="MO_TA" ColumnName="MO_TA" />
+          <ScalarProperty Name="NGAY_TAO" ColumnName="NGAY_TAO" />
+          <ScalarProperty Name="NGUOI_TAO" ColumnName="NGUOI_TAO" />
+          <ScalarProperty Name="NGAY_CAP_NHAT" ColumnName="NGAY_CAP_NHAT" />
+          <ScalarProperty Name="NGUOI_CAP_NHAT" ColumnName="NGUOI_CAP_NHAT" />
+          <ScalarProperty Name="TRANG_THAI" ColumnName="TRANG_THAI" />
+          <ScalarProperty Name="IS_DELETE" ColumnName="IS_DELETE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

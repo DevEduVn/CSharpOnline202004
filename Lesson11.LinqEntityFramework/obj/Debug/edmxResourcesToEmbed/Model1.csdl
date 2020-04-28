@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DEVHRMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DM_PHUONG_XA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="MA" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MO_TA" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ID_QUAN_HUYEN" Type="Int32" />
+    <Property Name="NGAY_TAO" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_TAO" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY_CAP_NHAT" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_CAP_NHAT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="TRANG_THAI" Type="Int32" />
+    <Property Name="IS_DELETE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="DM_QUAN_HUYEN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="MA" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MO_TA" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="ID_TINH_THANH" Type="Int32" />
+    <Property Name="NGAY_TAO" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_TAO" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY_CAP_NHAT" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_CAP_NHAT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="TRANG_THAI" Type="Int32" />
+    <Property Name="IS_DELETE" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="DM_TINH_THANH">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="MA" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="NAME" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MO_TA" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY_TAO" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_TAO" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="NGAY_CAP_NHAT" Type="DateTime" Precision="3" />
+    <Property Name="NGUOI_CAP_NHAT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="TRANG_THAI" Type="Int32" />
+    <Property Name="IS_DELETE" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="DEVHRMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DM_PHUONG_XA" EntityType="Self.DM_PHUONG_XA" />
+    <EntitySet Name="DM_QUAN_HUYEN" EntityType="Self.DM_QUAN_HUYEN" />
+    <EntitySet Name="DM_TINH_THANH" EntityType="Self.DM_TINH_THANH" />
+  </EntityContainer>
+</Schema>

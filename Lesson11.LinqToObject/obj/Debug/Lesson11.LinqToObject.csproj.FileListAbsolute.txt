@@ -1,0 +1,10 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\bin\Debug\Lesson11.LinqToObject.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\bin\Debug\Lesson11.LinqToObject.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\bin\Debug\Lesson11.LinqToObject.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\bin\Debug\EPPlus.dll
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\bin\Debug\EPPlus.xml
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\obj\Debug\Lesson11.LinqToObject.csprojAssemblyReference.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\obj\Debug\Lesson11.LinqToObject.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\obj\Debug\Lesson11.LinqToObject.csproj.CopyComplete
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\obj\Debug\Lesson11.LinqToObject.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToObject\obj\Debug\Lesson11.LinqToObject.pdb

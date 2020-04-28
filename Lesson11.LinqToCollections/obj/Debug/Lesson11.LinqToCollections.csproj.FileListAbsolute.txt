@@ -1,0 +1,7 @@
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\bin\Debug\Lesson11.LinqToCollections.exe.config
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\bin\Debug\Lesson11.LinqToCollections.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\bin\Debug\Lesson11.LinqToCollections.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\obj\Debug\Lesson11.LinqToCollections.csproj.CoreCompileInputs.cache
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\obj\Debug\Lesson11.LinqToCollections.exe
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\obj\Debug\Lesson11.LinqToCollections.pdb
+D:\Devmaster.edu.vn\CSharpOnline\CSharpOnline202004\Lesson11.LinqToCollections\obj\Debug\Lesson11.LinqToCollections.csprojAssemblyReference.cache
